@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manKellyJr
+- 👋 Hi, I’m @manKellyJr Obed Banda
 - 👀 I’m interested in full stack software development
 - 🌱 I’m currently learning Java and Web development
 - 💞️ I’m looking to collaborate on any Java, C++ and or Web development projects
